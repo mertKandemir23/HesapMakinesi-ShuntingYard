@@ -5,7 +5,6 @@ import java.util.Stack;
 
 public class Main {
 
-    // 2 7 9 * 3 / +
     // postfix olarak yazılmış matematiksel ifadeyi alıp
     // sonucu hesaplar
     public static String postfixHesaplama(String expression) {
